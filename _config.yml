@@ -8,7 +8,7 @@ subtitle: Cobalt's Blog
 description:
 keywords:
 author: cobalt
-language: zh
+language: en
 timezone:
 
 # URL
@@ -98,9 +98,29 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# RSS Feed
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 0
+  hub:
+  content: true
+  content_limit:
+  content_limit_delim:
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
+
+# add caption for images
+image_caption:
+  enable: true
+  class_name:
