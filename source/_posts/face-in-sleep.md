@@ -12,7 +12,7 @@ category: Murmur
 
 摄影师 Paul Graham 常常拍摄睡梦中的人。他的照片书 [_Does Yellow Run Forever?_](http://www.paulgrahamarchive.com/yellow.html) 里的三个主要题材之一就是他熟睡的妻子。他[最近的 Mother 系列](https://www.artsy.net/show/carlier-gebauer-paul-graham-mother-slash-sightless)就是他母亲熟睡时的肖像。
 
-之前写过 Max Richter 的 _Sleep_：
+之前写过 Max Richter 的 _Sleep_ ：
 
 > 与白日截然不同的内心状态，无关乎喜怒哀乐，无关乎是非善恶。黑夜中月光之下，宇宙低频涌动着的情绪，人逐渐漂往意识的另一面。月圆月缺，潮涨潮落，被寰宇所怀抱，永恒的周期性。
 
