@@ -1,7 +1,11 @@
 ---
 title: 很久很久以前，地球也有雷雨吗
 date: 2020/09/12
-category: Music
+tag:
+- Music
+- Contemporary Music
+- Ambient Music
+category: Review
 ---
 
 昨晚看了[关于 Max Richter’s Sleep 的纪录片](https://www.maxrichtersleep.co.uk/home/)。第一次听这张长达八小时的专辑，我记得好像是初三的时候。后来一直一直听，当然从来都没有听完过（基本上都是听到第三首就睡着了 w）。很惊讶，他把这张专辑做成了音乐会。八小时长的音乐会，从月升到月落，在洛杉矶的露天公园 Grand Park、巴黎爱乐乐团音乐厅 Philharmonie de Paris、悉尼歌剧院 Sydney Opera House、比利时安特卫普的教堂 Cathedral of Our Lady，以及纽约、伦敦、柏林等地，数百张床铺，听众带着被子和枕头，在一群陌生人之间，听着这张专辑入眠。

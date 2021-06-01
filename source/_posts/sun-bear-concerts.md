@@ -1,7 +1,10 @@
 ---
 title: Sun Bear Concerts, Keith Jarrett, 1976
 date: 2021/01/11
-category: Music
+tag:
+- Music
+- Jazz Music
+category: Review
 ---
 
 _Sun Bear Concerts_ 是 1976 年 11 月 Keith Jarrett 在日本的钢琴独奏会巡演的录音专辑。在两个星期内，他在日本进行了八场独奏会，这张专辑收录了其中的五场，分别是在京都、大阪、名古屋、东京和札幌。每场演奏会都由上下两部分组成，每部分是四十分钟左右的无间断钢琴即兴。加上三首 encore，这张专辑的时长达到六个半小时。这张专辑 1978 年由 ECM (Edition of Contemporary Music) 唱片公司发行，有 6CD 和 10LP (黑胶唱片) 两个版本。
