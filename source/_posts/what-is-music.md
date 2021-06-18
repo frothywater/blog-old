@@ -1,6 +1,6 @@
 ---
 title: 音乐是什么
-date: 2021-06-19 01:10:59
+date: 2021/06/19
 tag: 
 - Music
 - Classical Music
