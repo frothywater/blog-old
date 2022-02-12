@@ -1,7 +1,9 @@
 ---
 title: 架空
 date: 2021/02/03
-tag: Healing
+tag:
+- Healing
+- Night
 category: Fiction
 ---
 
