@@ -434,11 +434,6 @@ body td {
   padding: 0 8px;
   border-bottom: none;
 }
-@font-face {
-  font-style: normal;
-  font-family: "Meslo LG";
-  src: local("Meslo LG S"), url("../lib/meslo-LG/MesloLGS-Regular.ttf") format("truetype");
-}
 *,
 *:before,
 *:after {
@@ -460,7 +455,7 @@ body {
   font-display: swap;
   font-weight: 400;
   font-size: 14px;
-  font-family: "Menlo", "Meslo LG", monospace;
+  font-family: "Menlo", "Meslo LG", source-han-sans-cjk-sc, monospace;
   line-height: 1.725;
   text-rendering: geometricPrecision;
   flex: 1;
@@ -565,11 +560,6 @@ body {
     margin-bottom: 2rem;
   }
 }
-@media (min-width: 480px) {
-  p {
-    text-align: justify;
-  }
-}
 #header {
   margin: 0 auto 2rem;
   width: 100%;
@@ -612,7 +602,7 @@ body {
   font-size: 0.8rem;
 }
 #header #nav ul {
-  margin: 0;
+  margin: 10px 0 0 0;
   padding: 0;
   list-style-type: none;
   line-height: 15px;
@@ -1246,20 +1236,8 @@ article .content .caption {
 }
 #footer li {
   display: inline-block;
-  margin-right: 15px;
-  border-right: 1px solid;
-  border-color: #666;
+  margin: 0 10px;
   vertical-align: middle;
-}
-#footer li a {
-  margin-right: 15px;
-}
-#footer li:last-child {
-  margin-right: 0;
-  border-right: 0;
-}
-#footer li:last-child a {
-  margin-right: 0;
 }
 #footer a {
   color: #666;
@@ -1319,12 +1297,14 @@ article .content .caption {
   width: 100%;
   outline: none;
   border: solid 1px #666;
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: #edeae6;
   color: #22272a;
-  font-size: 1.2rem;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Menlo", "Meslo LG", source-han-sans-cjk-sc, monospace;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
 }
 .search-input:focus {
   border: solid 1px #83a33c;
@@ -1357,6 +1337,7 @@ article .content .caption {
 }
 .search-no-result {
   display: none;
+  margin-block-start: 1em !important;
   padding-bottom: 0.5em;
   color: #22272a;
 }
@@ -1384,7 +1365,7 @@ article .content .caption {
   font-display: swap;
   font-weight: 400;
   font-size: 11.200000000000001px;
-  font-family: "Menlo", "Meslo LG", monospace;
+  font-family: "Menlo", "Meslo LG", source-han-sans-cjk-sc, monospace;
   line-height: 1.725;
   text-rendering: geometricPrecision;
   text-align: center;
