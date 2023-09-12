@@ -31,4 +31,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: page # deploying branch
-          cname: blog.kokoro.icu
