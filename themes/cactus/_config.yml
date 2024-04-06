@@ -19,7 +19,7 @@ nav:
   articles: /archives/
   tag: /tags/
   category: /categories/
-  galleries: /galleries/
+  # galleries: /galleries/
   search: /search/
   RSS: /atom.xml
 
@@ -28,10 +28,10 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  telegram: https://t.me/kokoroic
-  twitter: https://twitter.com/kokoroic
-  github: https://github.com/frothywater
-  mail: mailto:kokoroic@outlook.com
+  # telegram: 
+  # twitter: 
+  # github: 
+  # mail: 
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
